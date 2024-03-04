@@ -1,1 +1,4 @@
-# gitExs1
+# Configuración del Juego
+
+* dificultad: media
+* modo_especial: desactivado
