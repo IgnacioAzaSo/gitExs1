@@ -1,4 +1,5 @@
 # Configuración del Juego
 
-* dificultad: alto
-* modo_especial: desactivado
+
+dificultad: alto
+modo_especial: activado 
